@@ -48,8 +48,8 @@ var app = {
 
         function handleOpenURL(url) {
           setTimeout(function() {
-            alert("received url: " + url);
-        }, 0);
-}
+                alert("received url: " + url);
+            }, 0);
+        }
     }
 };
